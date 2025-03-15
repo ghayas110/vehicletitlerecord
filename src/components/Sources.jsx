@@ -10,23 +10,28 @@ const sources = [
 
 export default function Sources() {
   return (
-    <div className="bg-gray-100 py-16 text-center p-30">
+    <div className="bg-gray-100 py-10 text-center px-6">
       {/* Heading */}
-      <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
+      <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900">
         TRUSTED DATA SOURCES FOR ALL VEHICLE TYPES
       </h2>
-      <p className="text-gray-600 mt-4 max-w-2xl mx-auto">
+      <p className="text-gray-600 mt-4 max-w-2xl mx-auto text-sm sm:text-base">
         Vehicle Title Record furnishes information sourced from industry-leading
-        data providers and authoritative experts, ensuring reliability and
-        trustworthiness.
+        data providers and authoritative experts, ensuring reliability and trustworthiness.
       </p>
 
       {/* Moving Logos Section */}
-      <div className="overflow-hidden mt-10 ">
-        <div className="whitespace-nowrap flex space-x-16 animate-scroll  ">
-          {[...sources].map((logo, index) => (
-            <div key={index} className="flex justify-center ">
-              <Image src={logo.src} alt={logo.alt} width={150} height={180} className="h-20 w-auto " />
+      <div className="overflow-hidden mt-10">
+        <div className="flex items-center space-x-10 md:space-x-16 animate-scroll w-max">
+          {[...sources, ...sources].map((logo, index) => (
+            <div key={index} className="flex justify-center">
+              <Image 
+                src={logo.src} 
+                alt={logo.alt} 
+                width={100} 
+                height={100} 
+                className="w-24 md:w-32 lg:w-40 h-auto"
+              />
             </div>
           ))}
         </div>
@@ -36,10 +41,10 @@ export default function Sources() {
       <style jsx>{`
         @keyframes scroll {
           from {
-            transform: translateX(100%);
+            transform: translateX(0%);
           }
           to {
-            transform: translateX(-100%);
+            transform: translateX(-50%);
           }
         }
         .animate-scroll {
