@@ -22,11 +22,11 @@ export default function Sources() {
       </p>
 
       {/* Moving Logos Section */}
-      <div className="overflow-hidden mt-10 p-30">
+      <div className="overflow-hidden mt-10 ">
         <div className="whitespace-nowrap flex space-x-16 animate-scroll  ">
           {[...sources].map((logo, index) => (
             <div key={index} className="flex justify-center ">
-              <Image src={logo.src} alt={logo.alt} width={150} height={180} className="h-26 w-auto " />
+              <Image src={logo.src} alt={logo.alt} width={150} height={180} className="h-20 w-auto " />
             </div>
           ))}
         </div>
