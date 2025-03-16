@@ -64,7 +64,7 @@ export default function Header() {
               onMouseEnter={() => setIsPoliciesOpen(true)} // Keeps open when moving inside
         
             >
-              <Link href="/privacy-policy" className="block px-4 py-2 text-sm hover:bg-gray-100">Privacy Policy</Link>
+              <Link href="/privacypolicy" className="block px-4 py-2 text-sm hover:bg-gray-100">Privacy Policy</Link>
               <Link href="/termsofservice" className="block px-4 py-2 text-sm hover:bg-gray-100">Terms of Service</Link>
               <Link href="/refundpolicy" className="block px-4 py-2 text-sm hover:bg-gray-100">Refund Policy</Link>
             </div>

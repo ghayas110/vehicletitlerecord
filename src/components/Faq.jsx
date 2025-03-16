@@ -1,7 +1,9 @@
 "use client";
 import React, { useState } from "react";
 import { FaChevronDown, FaChevronUp, FaPhone } from "react-icons/fa";
-
+import { useLanguage } from "@/app/providers/LanguageProvider";
+import en from "../../public/locales/en/common.json";
+import fr from "../../public/locales/fr/common.json";
 const faqs = [
   {
     question: "How Extensive Are Your VIN Reports?",
@@ -36,6 +38,8 @@ const faqs = [
 ];
 
 const Faq = () => {
+    const { locale } = useLanguage();
+         const t = locale === "fr" ? fr : en;
   const [openIndex, setOpenIndex] = useState(0);
 
   const toggleAccordion = (index) => {
@@ -48,11 +52,11 @@ const Faq = () => {
         {/* Left Side - Accordion */}
         <div className="w-full md:w-2/3">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
-            MOST POPULAR QUESTIONS
+            {t.mtq}
           </h2>
 
           <div className="mt-6">
-            {faqs.map((faq, index) => (
+            {t.faqs.map((faq, index) => (
               <div key={index} className="border-b border-gray-300">
                 <button
                   onClick={() => toggleAccordion(index)}
@@ -81,7 +85,7 @@ const Faq = () => {
         <div className="w-full md:w-1/3">
           {/* Call Us Section */}
           <div className="bg-blue-600 text-white p-6 rounded-lg text-center">
-            <h3 className="text-xl font-semibold">NEED HELP?</h3>
+            <h3 className="text-xl font-semibold">{t.nh}</h3>
             <div className="mt-4">
               <button className="bg-red-500 hover:bg-red-600 px-6 py-2 text-white font-semibold rounded-lg flex items-center mx-auto">
                 <FaPhone className="mr-2" /> Call Us
@@ -92,7 +96,7 @@ const Faq = () => {
           {/* Contact Form */}
           <div className="bg-gray-100 mt-6 p-6 rounded-lg">
             <h3 className="text-lg font-semibold text-gray-900 text-center">
-              CAN'T FIND ANSWER? ASK US.
+              {t.cfa}
             </h3>
             <form className="mt-4 space-y-4">
               <input
@@ -116,7 +120,7 @@ const Faq = () => {
                 className="w-full p-3 border border-gray-300 rounded-lg text-black"
               ></textarea>
               <button className="w-full bg-red-500 hover:bg-red-600 text-white p-3 font-semibold rounded-lg">
-                Get a Quote
+             {t.get_quote}
               </button>
             </form>
           </div>

@@ -1,0 +1,280 @@
+{
+  "title": "Obtenez votre rapport VIN aujourd'hui",
+  "description": "CHAQUE RAPPORT D'HISTORIQUE VIN EST CHARGÉ D'INFORMATIONS COMPLÈTES",
+  "get_vin_report": "Obtenir le rapport VIN",
+  "get_vrm_report": "Obtenir le rapport VRM",
+  "seen_by": "VU PAR PLUS DE 1 600 000 PERSONNES",
+  "all_50_state": "Tous les 50 États",
+  "all_50_state_dmv": "Toutes les juridictions DMV des 50 États",
+  "trusted_sources": "SOURCES DE DONNÉES DE CONFIANCE POUR TOUS LES TYPES DE VÉHICULES",
+  "english": "Anglais",
+  "french": "Français",
+  "sourcesDescription": "Vehicle Title Record fournit des informations provenant de fournisseurs de données de premier plan et d'experts reconnus, garantissant fiabilité et confiance.",
+  "solTitle": "SOLUTIONS AUTOMOBILES AXÉES SUR LES DONNÉES",
+  "soldes": "Le registre des titres de véhicules rassemble des informations provenant de nombreuses sources automobiles réputées, offrant des solutions complètes appuyées par des données robustes. Notre ensemble d'outils est conçu pour fournir aux acheteurs de voitures et aux entreprises des détails complets sur un véhicule et son histoire complète dans un seul rapport. Nos solutions automobiles axées sur les données sont sans pareil, répondant aux besoins des concessionnaires automobiles, des propriétaires de véhicules, des acheteurs de voitures, des compagnies d'assurance automobile et des amateurs. Obtenez des informations rapides et faciles sur les accidents graves, les tendances du marché automobile, les rappels en cours, les détails de la garantie, les propriétaires précédents, les déploiements d'airbags, l'historique complet du véhicule et bien plus encore ! Faites confiance au registre des titres de véhicules - nous collaborons avec des marques de référence dans l'industrie comme J.D. Power et le NMVTIS (Système national d'information sur les titres de véhicules à moteur) pour fournir les données de véhicules les plus actuelles et les plus précises.",
+  "histitle": "Découvrez l'historique de votre véhicule",
+  "get_quote": "Obtenir un devis",
+  "VIN_Pricing": "VIN Pricing",
+  "hissub": "QUE VOUS ACHETIEZ OU VENDIEZ !",
+  "hisp1": "Que vous soyez sur le marché pour acheter ou vendre un véhicule, il est crucial d'acquérir une connaissance approfondie de celui-ci. Découvrez des détails sur les propriétaires précédents, les dommages importants (tels que les incendies, les collisions, les inondations, etc.), l'équipement d'origine ou ajouté, les marques de titre, et bien plus encore grâce au contrôle VIN de Vehicle Title Record !",
+  "hisp2": "Ces informations ont un impact significatif sur la valeur, la sécurité et la fiabilité du véhicule. Il est donc essentiel d'avoir une compréhension claire avant toute transaction automobile.",
+  "hisp3": "Faites confiance au dernier standard de l'industrie – les contrôles VIN. Nos données proviennent de bases de données publiques et privées fiables, et nous sommes un fournisseur agréé de la base de données du National Motor Vehicle Title Information System (NMVTIS).",
+  "hisp4": "Lancez une recherche gratuite de VIN pour accéder à un rapport d'historique détaillé du véhicule !",
+  "mtq": "QUESTION LA PLUS POPULAIRE",
+  "nh": " BESOIN D'AIDE ?",
+  "cfa": "VOUS NE TROUVEZ PAS DE RÉPONSE ? DEMANDEZ-NOUS.",
+  "Choose_Your_Package": "Choisissez votre package",
+ "packages": [
+    {
+      "title": "ESSENTIEL",
+      "price": "74.99",
+      "bgColor": "bg-gray-100",
+      "textColor": "text-red-600",
+      "features": [
+        "Construction personnalisée",
+        "Historique des accidents",
+        "Fourchette de valeur marchande",
+        "Historique de propriété",
+        "Coût de possession",
+        "Spécifications du véhicule",
+        "Rappels et défauts",
+        "Enregistrements de ventes et transactions",
+        "Informations sur la garantie",
+        "Historique des dommages de récupération",
+        "Dossiers de vol",
+        "Historique des dommages causés par les inondations",
+        "Efficacité énergétique",
+        "Équipements et fonctionnalités",
+        "Rapport de bateau unique",
+        "Rapport de camping-car unique",
+        "Rapport de camion unique",
+        "Rapport sur l'équipement industriel",
+        "Rapport de remorque unique",
+        "Rapport sur l'équipement lourd"
+      ]
+    },
+    {
+      "title": "ÉLITE",
+      "price": "119.99",
+      "bgColor": "bg-red-600",
+      "textColor": "text-white",
+      "features": [
+        "Aviation, marine et commercial",
+        "Rapport complet sur les avions",
+        "Rapport sur les hélicoptères",
+        "Rapport sur les yachts",
+        "Rapport sur les camions commerciaux",
+        "Rapport sur l'équipement commercial"
+      ]
+    }
+  ],
+  "services": [
+    {
+      "title": "Historique du titre",
+      "description": "Informations sur l'historique du titre d'un véhicule ainsi que des données du Système national d'information sur les titres de véhicules à moteur (NMVTIS)."
+    },
+    {
+      "title": "Détails sur les véhicules hors d’usage / endommagés",
+      "description": "Données sur les véhicules hors d’usage, endommagés et les pertes d'assurance provenant des enchères, des démolisseurs, des recycleurs et des départements des véhicules à moteur des États."
+    },
+    {
+      "title": "Inspection des marques de titre",
+      "description": "Dossiers sur les dommages causés par le feu, les inondations, la grêle, les véhicules lemon, les véhicules reconstruits, le kilométrage inconnu et d'autres marques de titre."
+    },
+    {
+      "title": "Relevé du compteur kilométrique",
+      "description": "Vérifiez les relevés du compteur kilométrique signalés pour détecter toute fraude de recul ou divergence de kilométrage."
+    },
+    {
+      "title": "Données d'inspection",
+      "description": "Résultats techniques des inspections, y compris les tests d'émissions et les examens mécaniques."
+    },
+    {
+      "title": "Valeurs des véhicules",
+      "description": "Rapports d'évaluation des véhicules basés sur des ventes de modèles similaires, les tendances du marché et les taux de dépréciation."
+    },
+    {
+      "title": "Détails de la garantie",
+      "description": "Informations sur la couverture de la garantie, y compris les garanties d'usine et prolongées."
+    },
+    {
+      "title": "Rappels de sécurité",
+      "description": "Détails sur les rappels du fabricant, y compris les problèmes de sécurité, les pièces concernées et l'état des réparations."
+    },
+    {
+      "title": "Prêts en cours",
+      "description": "Détails sur les prêts actifs liés au véhicule, y compris les montants des prêts et les créanciers."
+    },
+    {
+      "title": "Vols actifs et véhicules retrouvés",
+      "description": "Rapports sur les véhicules volés, les vols récupérés et leur état actuel."
+    },
+    {
+      "title": "Détails de l'immatriculation",
+      "description": "Historique de l'immatriculation du véhicule, y compris les transferts de propriété et les renouvellements."
+    },
+    {
+      "title": "Détails supplémentaires",
+      "description": "Informations complémentaires sur l'historique du véhicule, y compris les utilisations passées comme la location ou le service de flotte."
+    }
+  ],
+  "stats": [
+    {
+      "title": "Les 50 États"
+    },
+    {
+      "title": "Toutes les juridictions DMV des 50 États"
+    },
+    {
+      "title": "Toutes les juridictions DMV des 50 États"
+    }
+  ],
+  
+    "faqs": [
+      {
+        "question": "Quelle est l'étendue de vos rapports VIN ?",
+        "answer": "Nos rapports couvrent des détails essentiels tels que les enregistrements de marques, le statut de véhicule hors d'usage / perte totale, les relevés du compteur kilométrique, les enregistrements de titre, les antécédents de vol, et bien plus encore. Nous fournissons des informations complètes pour vous aider à prendre des décisions éclairées !"
+      },
+      {
+        "question": "Couvrez-vous toutes les marques de véhicules ?",
+        "answer": "Oui, notre base de données inclut des informations sur la plupart des marques et modèles de véhicules disponibles sur le marché."
+      },
+      {
+        "question": "Que faire si je ne trouve aucune information ?",
+        "answer": "Si aucune information n'est trouvée pour votre VIN, cela signifie qu'il n'a peut-être pas été enregistré dans les bases de données disponibles. Contactez notre équipe d'assistance pour obtenir de l'aide."
+      },
+      {
+        "question": "Comment puis-je annuler mon compte ?",
+        "answer": "Vous pouvez annuler votre compte à tout moment en accédant aux paramètres de votre compte et en sélectionnant 'Annuler l'abonnement'."
+      },
+      {
+        "question": "Combien de rapports puis-je générer ?",
+        "answer": "Le nombre de rapports que vous pouvez générer dépend du forfait que vous choisissez. Consultez notre page de tarification pour plus de détails."
+      },
+      {
+        "question": "Votre service de recherche VIN est-il précis et fiable ?",
+        "answer": "Oui, nous obtenons nos données auprès de sources de l'industrie de confiance, garantissant une grande précision et fiabilité."
+      }
+    ],
+    "privacy-title": "POLITIQUE DE CONFIDENTIALITÉ",
+  "sections": {
+    "collection": {
+      "title": "COLLECTE DES INFORMATIONS PERSONNELLES",
+      "content": "Nous collectons des informations personnelles dans les scénarios suivants :",
+      "points": [
+        { "strong": "Création de compte :", "text": "Nous recueillons des informations telles que votre nom, adresse postale, adresse e-mail, numéro de téléphone et autres détails pertinents." },
+        { "strong": "Achats de produits ou services :", "text": "Nous collectons des données supplémentaires, y compris les informations de paiement et l'historique des transactions." },
+        { "strong": "Adresse IP :", "text": "Nous enregistrons chaque visite avec votre adresse IP et la page Web de référence pour analyser la démographie des utilisateurs, diagnostiquer les problèmes du serveur et améliorer l'administration du site." }
+      ]
+    },
+    "cookies": {
+      "title": "COOKIES ET TAGS D'ACTION",
+      "content": [
+        "Nous utilisons des cookies pour améliorer votre expérience. Lors de votre première visite, nous attribuons un numéro d'identification à votre e-mail et installons un cookie sur votre appareil. Ce cookie nous permet de vous reconnaître lors de vos visites ultérieures et de mémoriser vos préférences.",
+        "Tags d'Action / Pixels Espions : Ces images de 1x1 pixel nous permettent de suivre les interactions avec nos publicités et notre contenu, nous aidant ainsi à affiner nos services et personnaliser votre expérience. Ces informations restent confidentielles et ne sont pas partagées avec des tiers."
+      ]
+    },
+    "third_party": {
+      "title": "PARTAGE D'INFORMATIONS AVEC DES TIERS",
+      "content": "Nous partageons des informations personnelles avec des prestataires de services tiers pour l'exécution des transactions et la fourniture de services. Ces prestataires sont contractuellement tenus de protéger vos données et de les utiliser uniquement à des fins prévues."
+    },
+    "marketing": {
+      "title": "MARKETING ET COMMUNICATIONS",
+      "content": "En fournissant vos informations personnelles, vous acceptez de recevoir des communications marketing de notre part et de nos partenaires. Vous pouvez vous désinscrire à tout moment en suivant les instructions de nos e-mails ou en nous contactant directement."
+    },
+    "security": {
+      "title": "SÉCURITÉ DES DONNÉES",
+      "content": "Nous accordons la priorité à la protection de vos informations personnelles. Nos serveurs sont sécurisés dans des environnements protégés et nous utilisons le cryptage SSL pour la transmission des données sensibles."
+    },
+    "user_rights": {
+      "title": "DROITS DES UTILISATEURS ET DÉSINSCRIPTION",
+      "content": "Vous avez le droit de demander la suppression de vos informations personnelles de notre base de données. Veuillez nous contacter à {email} pour faire de telles demandes."
+    },
+    "minors": {
+      "title": "MINEURS",
+      "content": "Nous ne collectons ni ne sollicitons sciemment des informations personnelles auprès des personnes de moins de 18 ans."
+    }
+  },
+  
+    "terms_title": "Conditions d'utilisation",
+    "terms_sections": {
+      "interpretation": {
+        "title": "1.1 Interprétation",
+        "content": "Les mots dont la première lettre est en majuscule ont des significations définies dans les conditions suivantes. Les définitions suivantes auront la même signification, qu'elles apparaissent au singulier ou au pluriel."
+      },
+      "definitions": {
+        "title": "1.2 Définitions",
+        "points": [
+          { "strong": "1.2.1 Conditions :", "text": "Fait référence aux conditions générales d'utilisation décrites dans ce document, auxquelles les utilisateurs doivent adhérer lorsqu'ils accèdent aux services fournis par VehicleTitleRecord.com." },
+          { "strong": "1.2.2 Société :", "text": "Le propriétaire et exploitant du site Web, proposant des rapports de véhicules virtuels via sa plateforme en ligne." },
+          { "strong": "1.2.3 Site Web :", "text": "Fait référence à la plateforme en ligne détenue et exploitée par la société, accessible à https://vehicletitlerecord.com/, où des rapports de véhicules virtuels sont fournis." },
+          { "strong": "1.2.4 Utilisateur :", "text": "Désigne toute personne accédant aux services fournis par le site Web, acceptant de se conformer aux conditions énoncées dans ce document." }
+        ]
+      },
+      "acceptance": {
+        "title": "2. Acceptation des conditions",
+        "content": "En accédant aux services fournis par VehicleTitleRecord.com, l'utilisateur accepte de se conformer aux présentes conditions. Si vous n'acceptez pas ces conditions, vous ne pouvez pas utiliser les services."
+      },
+      "services": {
+        "title": "3. Description des services/produits",
+        "content": "Les services fournis incluent les rapports de véhicules virtuels et le décodeur VIN, offrant des informations sur l'historique et l'identification des véhicules. Les rapports de véhicules virtuels fournissent des informations détaillées sur un véhicule, tandis que le décodeur VIN décode les numéros d'identification des véhicules, révélant la marque, le modèle et l'année. Les informations fournies sont à titre informatif uniquement et ne doivent pas être considérées comme des conseils professionnels. La société se réserve le droit de mettre à jour ou de modifier ces services à tout moment."
+      }
+    },
+    "contact_title": "Contactez-nous",
+    "refund_title": "Politique de remboursement",
+    "refund_sections": {
+      "introduction": {
+        "title": "1. Introduction",
+        "content": "Merci d'avoir choisi vehicletitlerecord.com, un service fourni par Vehicle Title Record. Nous nous efforçons d'assurer votre satisfaction avec nos services de rapports de véhicules virtuels. Veuillez consulter notre politique de remboursement ci-dessous pour comprendre les conditions d'application des remboursements."
+      },
+      "procedure": {
+        "title": "2. Procédure de demande de remboursement",
+        "content": "Les clients qui souhaitent demander un remboursement doivent suivre la procédure spécifiée ci-dessous :",
+        "points": [
+          "Envoyez un e-mail à {email} dans les 48 heures suivant la commande.",
+          "Utilisez l'objet 'Demande de remboursement' dans l'e-mail.",
+          "Incluez le numéro de commande ou tout autre identifiant de commande dans l'e-mail.",
+          "Fournissez une raison claire et détaillée de la demande de remboursement.",
+          "Incluez des preuves à l'appui du dossier, telles que des captures d'écran ou des documents pertinents."
+        ]
+      },
+      "eligibility": {
+        "title": "3. Éligibilité au remboursement",
+        "content": "Un remboursement sera envisagé dans les circonstances suivantes :"
+      },
+      "non_delivery": {
+        "title": "3.1 Non-réception du rapport",
+        "content": "Si le client ne reçoit pas le rapport pour des raisons telles qu'une adresse e-mail incorrecte, des problèmes avec le fournisseur de messagerie, des erreurs de serveur de messagerie ou des paramètres de spam, les étapes suivantes doivent être suivies :",
+        "points": [
+          "Le client nous informe par e-mail ou via le support en ligne de la non-réception.",
+          "L'objet de l'e-mail doit être 'Rapport non livré'.",
+          "L'e-mail ou le chat en direct doit inclure le numéro de commande et une adresse e-mail alternative.",
+          "Nous renverrons le rapport à l'adresse e-mail alternative fournie et via le support en ligne (si demandé).",
+          "Si le rapport n'est pas livré dans les 2 heures suivant l'e-mail de plainte, le client est éligible à un remboursement."
+        ]
+      },
+      "errors": {
+        "title": "3.2 Erreurs ou lacunes dans le rapport",
+        "content": "En cas d'erreurs ou de lacunes dans le rapport, les clients doivent :",
+        "points": [
+          "Nous informer par e-mail des erreurs ou des lacunes dans le rapport.",
+          "L'objet de l'e-mail doit être 'Erreurs ou lacunes dans le rapport'.",
+          "L'e-mail doit inclure le numéro de commande et mettre en évidence les problèmes spécifiques, en fournissant une documentation à l'appui.",
+          "Nous enverrons le rapport corrigé si des erreurs sont établies.",
+          "Si le rapport corrigé n'est pas livré dans les 48 heures suivant l'e-mail de plainte, le client est éligible à un remboursement."
+        ]
+      }
+    },
+    "contact": {
+    "title": "ENTRER EN CONTACT.",
+    "name": "NOM",
+    "phone": "TÉLÉPHONE",
+    "email": "E-MAIL",
+    "subject": "SUJET",
+    "message": "MESSAGE",
+    "sendMessage": "Envoyer un message"
+  }
+  
+  
+  
+}

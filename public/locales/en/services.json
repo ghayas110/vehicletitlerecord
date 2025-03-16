@@ -1,0 +1,53 @@
+{
+    "services": [
+      {
+        "title": "Title History",
+        "description": "Information about a vehicle’s title history as well as data from the National Motor Vehicle Title Information System (NMVTIS)."
+      },
+      {
+        "title": "Junk / Salvage Details",
+        "description": "Junk, salvage, and insurance loss data from auctions, dismantlers, recyclers, and state motor vehicle departments."
+      },
+      {
+        "title": "Title Brand Inspection",
+        "description": "Records about fire, flood, Hail Damage, Lemon, Salvage, Rebuilt, True Mileage Unknown, and other title brands."
+      },
+      {
+        "title": "Odometer Usage Record",
+        "description": "Check reported odometer readings for potential rollback fraud or mileage discrepancies."
+      },
+      {
+        "title": "Inspection Data",
+        "description": "Technical findings from inspections, including emissions testing and mechanical reviews."
+      },
+      {
+        "title": "Vehicle Values",
+        "description": "Vehicle valuation reports based on similar model sales, market trends, and depreciation rates."
+      },
+      {
+        "title": "Warranty Details",
+        "description": "Warranty coverage information including factory and extended warranties."
+      },
+      {
+        "title": "Safety Recalls",
+        "description": "Manufacturer recall details including safety issues, affected parts, and repair status."
+      },
+      {
+        "title": "Open Liens",
+        "description": "Details about any active liens on the vehicle including loan amounts and lienholders."
+      },
+      {
+        "title": "Active and Recovered Theft",
+        "description": "Reports about stolen vehicles, recovered thefts, and their current status."
+      },
+      {
+        "title": "Registration Details",
+        "description": "Vehicle registration history, including ownership transfers and renewal records."
+      },
+      {
+        "title": "Additional Details",
+        "description": "More insights into the vehicle’s background including past uses like rental or fleet service."
+      }
+    ]
+  }
+  

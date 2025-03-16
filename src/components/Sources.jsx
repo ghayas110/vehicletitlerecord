@@ -1,6 +1,8 @@
 "use client";
 import Image from "next/image";
-
+import { useLanguage } from "@/app/providers/LanguageProvider";
+import en from "../../public/locales/en/common.json";
+import fr from "../../public/locales/fr/common.json";
 const sources = [
   { src: "/images/kbb.png", alt: "Kelley Blue Book" },
   { src: "/images/every.png", alt: "EveryCarListed" },
@@ -9,15 +11,16 @@ const sources = [
 ];
 
 export default function Sources() {
+   const { locale } = useLanguage();
+     const t = locale === "fr" ? fr : en;
   return (
     <div className="bg-gray-100 py-10 text-center px-6">
       {/* Heading */}
       <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900">
-        TRUSTED DATA SOURCES FOR ALL VEHICLE TYPES
+        {t.trusted_sources}
       </h2>
       <p className="text-gray-600 mt-4 max-w-2xl mx-auto text-sm sm:text-base">
-        Vehicle Title Record furnishes information sourced from industry-leading
-        data providers and authoritative experts, ensuring reliability and trustworthiness.
+      {t.sourcesDescription}
       </p>
 
       {/* Moving Logos Section */}

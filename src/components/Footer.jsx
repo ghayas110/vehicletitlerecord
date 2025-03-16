@@ -1,8 +1,20 @@
 import React from "react";
 import Image from "next/image";
 import { FaEnvelope, FaPhone } from "react-icons/fa";
+import { useLanguage } from "../app/providers/LanguageProvider";
+/**
+ * Footer component that displays company information, services, and policies.
+ * 
+ * This component includes three main sections:
+ * - Company Info: Displays the company logo, address, contact email, and phone number.
+ * - Services: Lists available services like Home, FAQ's, Pricing, and Contact.
+ * - Policies: Lists important policies such as Privacy Policy, Terms and Conditions, and Refund Policy.
+ * 
+ * Additionally, the component includes a copyright notice and a button to toggle language between English and French.
+ */
 
 const Footer = () => {
+  const { locale, changeLanguage } = useLanguage();
   return (
     <footer className="bg-black text-white py-12 relative">
       <div className="container mx-auto px-6 md:px-12">
@@ -55,6 +67,12 @@ const Footer = () => {
       <div className="mt-12 text-center text-gray-500 text-sm border-t border-gray-700 pt-6">
         Copyright © 2024 Vehicle Title Record
       </div>
+      <button
+        onClick={() => changeLanguage(locale === "en" ? "fr" : "en")}
+        className="bg-gray-200 px-4 py-6 rounded-lg text-black font-semibold hover:bg-gray-300 fixed bottom-5.5 right-40 mx-auto mt-4"
+      >
+        {locale === "en" ? "Français 🇫🇷" : "English 🇬🇧"}
+      </button>
     </footer>
   );
 };

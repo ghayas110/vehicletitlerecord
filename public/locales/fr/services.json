@@ -1,0 +1,52 @@
+{
+  "services": [
+    {
+      "title": "Historique du titre",
+      "description": "Informations sur l'historique du titre d'un véhicule ainsi que des données du Système national d'information sur les titres de véhicules à moteur (NMVTIS)."
+    },
+    {
+      "title": "Détails sur les véhicules hors d’usage / endommagés",
+      "description": "Données sur les véhicules hors d’usage, endommagés et les pertes d'assurance provenant des enchères, des démolisseurs, des recycleurs et des départements des véhicules à moteur des États."
+    },
+    {
+      "title": "Inspection des marques de titre",
+      "description": "Dossiers sur les dommages causés par le feu, les inondations, la grêle, les véhicules lemon, les véhicules reconstruits, le kilométrage inconnu et d'autres marques de titre."
+    },
+    {
+      "title": "Relevé du compteur kilométrique",
+      "description": "Vérifiez les relevés du compteur kilométrique signalés pour détecter toute fraude de recul ou divergence de kilométrage."
+    },
+    {
+      "title": "Données d'inspection",
+      "description": "Résultats techniques des inspections, y compris les tests d'émissions et les examens mécaniques."
+    },
+    {
+      "title": "Valeurs des véhicules",
+      "description": "Rapports d'évaluation des véhicules basés sur des ventes de modèles similaires, les tendances du marché et les taux de dépréciation."
+    },
+    {
+      "title": "Détails de la garantie",
+      "description": "Informations sur la couverture de la garantie, y compris les garanties d'usine et prolongées."
+    },
+    {
+      "title": "Rappels de sécurité",
+      "description": "Détails sur les rappels du fabricant, y compris les problèmes de sécurité, les pièces concernées et l'état des réparations."
+    },
+    {
+      "title": "Prêts en cours",
+      "description": "Détails sur les prêts actifs liés au véhicule, y compris les montants des prêts et les créanciers."
+    },
+    {
+      "title": "Vols actifs et véhicules retrouvés",
+      "description": "Rapports sur les véhicules volés, les vols récupérés et leur état actuel."
+    },
+    {
+      "title": "Détails de l'immatriculation",
+      "description": "Historique de l'immatriculation du véhicule, y compris les transferts de propriété et les renouvellements."
+    },
+    {
+      "title": "Détails supplémentaires",
+      "description": "Informations complémentaires sur l'historique du véhicule, y compris les utilisations passées comme la location ou le service de flotte."
+    }
+  ]
+}

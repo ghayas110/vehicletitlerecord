@@ -1,0 +1,293 @@
+
+{
+    "title": "Get Your VIN Report Today",
+    "description": "EACH VIN HISTORY REPORT IS LOADED WITH COMPREHENSIVE INFORMATION",
+    "get_vin_report": "Get VIN Report",
+    "get_vrm_report": "Get VRM Report",
+    "seen_by": "SEEN BY MORE THAN 1,600,000 PEOPLE",
+    "VIN_Pricing": "VIN Pricing",
+    "all_50_state": "All 50 State",
+    "mtq": "MOST POPULAR QUESTION",
+    "nh": "Need Help?",
+    "cfa": "CAN'T FIND ANSWER? ASK US",
+    "get_quote": "GET A QUOTE",
+    "all_50_state_dmv": "All 50 State DMV Jurisdictions",
+    "trusted_sources": "TRUSTED DATA SOURCES FOR ALL VEHICLE TYPES",
+    "sourcesDescription": "Vehicle Title Record furnishes information sourced from industry-leading data providers and authoritative experts, ensuring reliability and trustworthiness.",
+    "english": "English",
+    "french": "Français",
+    "solTitle": "DATA-DRIVEN AUTOMOTIVE SOLUTIONS",
+    "soldes": "Vehicle Title Record aggregates information from a multitude of reputable automobile sources, delivering comprehensive solutions supported by robust data. Our suite of tools is tailored to provide car buyers and businesses with all-encompassing details about a vehicle and its complete history in a single report.Our data-driven auto solutions are unparalleled, catering to car dealerships, motor vehicle owners, vehicle buyers, car insurance companies, and hobbyists. Gain quick and easy insights into major accidents, car market trends, open recalls, warranty details, previous owners, airbag deployments, the complete history of the vehicle, and much more! Trust Vehicle Title Record – we collaborate with industry-standard brands like J.D. Power and the NMVTIS (National Motor Vehicle Title Information System) to deliver the most current and accurate vehicle data.",
+    "histitle": "Uncover the History of Your Vehicle",
+    "hissub": "WHETHER BUYING OR SELLING!",
+    "hisp1": "Whether you are in the market to purchase or sell a vehicle, acquiring comprehensive knowledge about it is crucial. Uncover details about previous owners, significant damages (like fire, collisions, floods, etc.), original or added equipment, title brands, and more through Vehicle Title Record VIN Check!",
+    "hisp2": "This information significantly impacts the vehicle's value, safety, and reliability. Therefore, it is essential to have a clear understanding before making any vehicle transaction.",
+    "hisp3": "Rely on the latest industry standard – VIN checks. Our data is sourced from trustworthy public and private databases, and we are an authorized provider for the National Motor Vehicle Title Information System (NMVTIS) database.",
+    "hisp4": "Initiate a free VIN lookup to access a detailed vehicle history report!",
+    "services": [
+      {
+        "title": "Title History",
+        "description": "Information about a vehicle’s title history as well as data from the National Motor Vehicle Title Information System (NMVTIS)."
+      },
+      {
+        "title": "Junk / Salvage Details",
+        "description": "Junk, salvage, and insurance loss data from auctions, dismantlers, recyclers, and state motor vehicle departments."
+      },
+      {
+        "title": "Title Brand Inspection",
+        "description": "Records about fire, flood, Hail Damage, Lemon, Salvage, Rebuilt, True Mileage Unknown, and other title brands."
+      },
+      {
+        "title": "Odometer Usage Record",
+        "description": "Check reported odometer readings for potential rollback fraud or mileage discrepancies."
+      },
+      {
+        "title": "Inspection Data",
+        "description": "Technical findings from inspections, including emissions testing and mechanical reviews."
+      },
+      {
+        "title": "Vehicle Values",
+        "description": "Vehicle valuation reports based on similar model sales, market trends, and depreciation rates."
+      },
+      {
+        "title": "Warranty Details",
+        "description": "Warranty coverage information including factory and extended warranties."
+      },
+      {
+        "title": "Safety Recalls",
+        "description": "Manufacturer recall details including safety issues, affected parts, and repair status."
+      },
+      {
+        "title": "Open Liens",
+        "description": "Details about any active liens on the vehicle including loan amounts and lienholders."
+      },
+      {
+        "title": "Active and Recovered Theft",
+        "description": "Reports about stolen vehicles, recovered thefts, and their current status."
+      },
+      {
+        "title": "Registration Details",
+        "description": "Vehicle registration history, including ownership transfers and renewal records."
+      },
+      {
+        "title": "Additional Details",
+        "description": "More insights into the vehicle’s background including past uses like rental or fleet service."
+      }
+    ],
+    "stats" : [
+      {
+
+        "title": "All 50 State"
+      },
+      {
+       
+        "title": "All 50 State DMV Jurisdictions"
+      },
+      {
+   
+        "title": "All 50 State DMV Jurisdiction"
+      }
+    ],   
+     "faqs" : [
+      {
+        "question": "How Extensive Are Your VIN Reports?",
+        "answer":
+          "Our reports encompass crucial details such as Brand Records, Junk/Salvage/Total Loss status, Odometer Readings, Title Records, Prior Theft Records, and more. We provide comprehensive information to support your informed decision-making process!"
+      },
+      {
+        "question": "Do You Cover All Vehicle Makes?",
+        "answer":
+          "Yes, our database includes information for most vehicle makes and models available in the market."
+      },
+      {
+        "question": "What If I Can not Find Any Information?",
+        "answer":
+          "If no information is found for your VIN, it may not have been registered in the available databases. Contact our support team for further assistance."
+      },
+      {
+        "question": "How Can I Cancel My Account?",
+        "answer":
+          "You can cancel your account anytime by navigating to your account settings and selecting 'Cancel Subscription'."
+      },
+      {
+        "question": "How Many Reports Can I Generate?",
+        "answer":
+          "The number of reports you can generate depends on the package you choose. Visit our pricing page for details."
+      },
+      {
+        "question": "Is Your VIN Lookup Service Accurate and Reliable?",
+        "answer":
+          "Yes, we source our data from trusted industry sources, ensuring high accuracy and reliability."
+      }
+    ],
+    "Choose_You_Package": "Choose Your Package",
+    "packages": [
+      {
+        "title": "ESSENTIAL",
+        "price": "74.99",
+        "bgColor": "bg-gray-100",
+        "textColor": "text-red-600",
+        "features": [
+          "Custom build",
+          "Accident History",
+          "Market Value Range",
+          "Ownership History",
+          "Cost of Ownership",
+          "Vehicle Specifications",
+          "Recalls and Defects",
+          "Sales and Transaction Records",
+          "Warranty Information",
+          "Salvage History",
+          "Theft Records",
+          "Flood Damage History",
+          "Fuel Efficiency",
+          "Equipment and Features",
+          "Single Boat Report",
+          "Single RV Report",
+          "Single Truck Report",
+          "Industrial Equipment Report",
+          "Single Trailer Report",
+          "Heavy Equipment Report"
+        ]
+      },
+      {
+        "title": "ELITE",
+        "price": "119.99",
+        "bgColor": "bg-red-600",
+        "textColor": "text-white",
+        "features": [
+          "Aviation, Marine, and Commercial",
+          "Aero Plan Comprehensive Report",
+          "Helicopter Report",
+          "Yacht Report",
+          "Commercial Truck Report",
+          "Commercial Equipment Report"
+        ]
+      }
+    ],
+    "privacy_policy_title": "PRIVACY POLICY",
+  "sections": {
+    "collection": {
+      "title": "COLLECTION OF PERSONAL INFORMATION",
+      "content": "We collect personal information in the following scenarios:",
+      "points": [
+        { "strong": "Account Creation:", "text": "We gather information such as your name, mailing address, email address, phone number, and other pertinent details." },
+        { "strong": "Product or Service Purchases:", "text": "We collect additional data, including payment information and transaction history." },
+        { "strong": "IP Address:", "text": "We log each visit with your IP address and referring web page to analyze user demographics, diagnose server issues, and enhance site administration." }
+      ]
+    },
+    "cookies": {
+      "title": "COOKIES AND ACTION TAGS",
+      "content": [
+        "We utilize cookies to improve your experience. Upon your initial visit, we assign an identification number to your email and deploy a cookie on your device. This cookie allows us to recognize you on subsequent visits and remember your preferences.",
+        "Action Tags/Web Beacons: These 1x1 pixel images enable us to track interactions with our advertisements and content, assisting us in refining our services and personalizing your experience. This information remains confidential and is not shared with third parties."
+      ]
+    },
+    "third_party": {
+      "title": "THIRD-PARTY INFORMATION SHARING",
+      "content": "We share personal information with third-party service providers for transaction completion and service delivery. These providers are contractually obligated to safeguard your data and utilize it solely for the intended purpose."
+    },
+    "marketing": {
+      "title": "MARKETING AND COMMUNICATIONS",
+      "content": "By providing your personal information, you agree to receive marketing communications from us and our partners. You may opt out at any time by following the instructions in our emails or contacting us directly."
+    },
+    "security": {
+      "title": "DATA SECURITY",
+      "content": "We prioritize the protection of your personal information. Our servers are secured in protected environments, and we use SSL encryption for sensitive data transmission. While we strive to ensure maximum security, no Internet transmission can be guaranteed 100% secure, and you assume the risk associated with data transmission."
+    },
+    "user_rights": {
+      "title": "USER RIGHTS AND OPT-OUT",
+      "content": "You have the right to request the removal of your personal information from our database. Please contact us at {email} to make such requests. Note that opting out does not affect information already shared with third parties."
+    },
+    "minors": {
+      "title": "MINORS",
+      "content": "We do not knowingly collect or solicit personal information from individuals under the age of 18. If we become aware that we have inadvertently collected personal information from a minor, we will take steps to delete it as soon as possible."
+    }
+  },
+  
+    "terms_title": "Terms of Service",
+    "terms_sections": {
+      "interpretation": {
+        "title": "1.1 Interpretation",
+        "content": "The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or plural."
+      },
+      "definitions": {
+        "title": "1.2 Definitions",
+        "points": [
+          { "strong": "1.2.1 Terms:", "text": "Refers to the Terms and Conditions of Use outlined in this document that Users must agree to when accessing or using the services provided by VehicleTitleRecord.com." },
+          { "strong": "1.2.2 Company:", "text": "The owner and operator of the Website, offering virtual vehicle reports through its online platform." },
+          { "strong": "1.2.3 Website:", "text": "Refers to the online platform owned and operated by the Company, accessible at https://vehicletitlerecord.com/, where virtual vehicle reports are provided." },
+          { "strong": "1.2.4 User:", "text": "Refers to any individual accessing or using the services provided by the Website, agreeing to abide by the Terms outlined herein." }
+        ]
+      },
+      "acceptance": {
+        "title": "2. Acceptance of Terms",
+        "content": "By accessing or using the services provided by VehicleTitleRecord.com, User agrees to comply with and be bound by these Terms. If you do not agree to these Terms, you may not use the services."
+      },
+      "services": {
+        "title": "3. Description of Services/Products",
+        "content": "The services provided include Virtual Vehicle Reports and VIN Decoder, offering insights into vehicle history and identification. Virtual Vehicle Reports provide detailed information on a vehicle, while VIN Decoder decodes Vehicle Identification Numbers, revealing the make, model, and year. The information provided is for general informational purposes only and should not be considered as professional advice. The Company reserves the right to update or modify these services at any time."
+      }
+    },
+    "contact_title": "Contact Us",
+      "refund_title": "Refund Policy",
+      "refund_sections": {
+        "introduction": {
+          "title": "1. Introduction",
+          "content": "Thank you for choosing vehicletitlerecord.com, a service provided by Vehicle Title Record. We strive to ensure your satisfaction with our virtual vehicle report services. Please review our refund policy outlined below to understand the conditions under which refunds are applicable."
+        },
+        "procedure": {
+          "title": "2. Refund Request Procedure",
+          "content": "Customers who wish to request a refund must follow the specified procedure outlined below:",
+          "points": [
+            "Send an email to {email} within 48 hours of placing the order(s).",
+            "Use the subject line 'Refund Request' in the email.",
+            "Include the Order Number or any other order identifier in the email.",
+            "Provide a clear and detailed reason for the refund request.",
+            "Include evidence supporting the case, such as screenshots or relevant documents."
+          ]
+        },
+        "eligibility": {
+          "title": "3. Eligibility for Refund",
+          "content": "A refund will be considered under the following circumstances:"
+        },
+        "non_delivery": {
+          "title": "3.1 Non-Delivery",
+          "content": "If the customer does not receive the report due to reasons such as an incorrect email address, email provider issues, mail server errors, or spam settings, the following steps should be taken:",
+          "points": [
+            "Customer informs us via email or live chat support about non-delivery.",
+            "The subject of the email should be 'Report Not Delivered'.",
+            "The email or live chat should include the order number and an alternate email address.",
+            "We will resend the report to the provided alternate email and on live chat support (if requested).",
+            "If the report is not delivered within 2 hours of the complaint email, the customer is eligible for a refund."
+          ]
+        },
+        "errors": {
+          "title": "3.2 Errors or Shortcomings in Report",
+          "content": "In the event of errors or shortcomings in the report, customers should:",
+          "points": [
+            "Inform us via email about errors or shortcomings in the report.",
+            "The subject of the email should be 'Errors or Shortcomings in Report'.",
+            "The email should include the order number and highlight specific issues, providing documentation as proof.",
+            "We will send the corrected report if errors are established.",
+            "If the corrected report is not delivered within 48 hours of the complaint email, the customer is eligible for a refund."
+          ]
+        }
+      },
+      
+        "contact": {
+          "title": "GET IN TOUCH.",
+          "name": "NAME",
+          "phone": "PHONE",
+          "email": "EMAIL",
+          "subject": "SUBJECT",
+          "message": "MESSAGE",
+          "sendMessage": "Send a message"
+        }
+      
+      
+    
+    
+    
+  }
+  
