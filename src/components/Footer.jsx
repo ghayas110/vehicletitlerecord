@@ -69,7 +69,7 @@ const Footer = () => {
       </div>
       <button
         onClick={() => changeLanguage(locale === "en" ? "fr" : "en")}
-        className="bg-gray-200 px-4 py-6 rounded-lg text-black font-semibold hover:bg-gray-300 fixed bottom-5.5 right-40 mx-auto mt-4"
+        className="bg-gray-200 px-4 py-6 rounded-lg text-black font-semibold hover:bg-gray-300 fixed bottom-35.5 right-0 mx-auto mt-4"
       >
         {locale === "en" ? "Français 🇫🇷" : "English 🇬🇧"}
       </button>
